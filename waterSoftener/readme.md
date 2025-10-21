@@ -3,7 +3,7 @@ Water Softener builds
 
   - PIN wyjściowy D2 -> GPIO2 -> D4 -> poprzez rezystor 300 Ohm do diody LED i masy
   - PIN D1 i D2 odpowiednio jako SCL , SDA podpięte do tak opisanych pinów czujnika odległości
-  - PIN D6 jako wejście od guzika CONFIG do masy
+  - PIN D6 do guzika CONFIG a druga nóżka guzika do masy
 
   **_Czujnik zbliżeniowy VL53L0X podłączenia:_**
 
