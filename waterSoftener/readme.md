@@ -13,10 +13,6 @@ Water Softener builds
   - SDA -> D2 mikroprocesora
   
 
-Załączony plik schematu można obejrzeć (assets/WIFI_waterSoftener_falstad_com.txt) w https://falstad.com
-Na schemacie na dziś nadmiarowo przepuszczenie masy z czujnika przez tranzystor celem resetowania 
-ta wersja nie jest wdrożona - kod zaremowany 
-
 **Instalacja urządzenia w SUPLA**
 
 - Urządzenie na potrzeby auto instalacji w SUPLA wystawia sieć o SID: SUPLA-AAFF
